@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T10:19:39.166Z",
+  "generated_at": "2026-11-13T10:19:40.985Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -78,6 +78,32 @@
       "last_pushed_at": "2026-04-24T14:13:59.238Z",
       "language": "python",
       "lines": 66
+    },
+    "problem:107": {
+      "kind": "problem",
+      "id": "107",
+      "title": "Implement Masked Self-Attention",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/107",
+      "path": "problems/0107-implement-masked-self-attention",
+      "first_solved_at": "2026-04-30T06:22:28.477Z",
+      "last_pushed_at": "2026-04-30T06:22:28.477Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:10": {
+      "kind": "problem",
+      "id": "10",
+      "title": "Calculate Covariance Matrix",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/10",
+      "path": "problems/0010-calculate-covariance-matrix",
+      "first_solved_at": "2026-04-30T07:36:50.307Z",
+      "last_pushed_at": "2026-04-30T07:36:50.307Z",
+      "language": "python",
+      "lines": 31
     }
   }
 }

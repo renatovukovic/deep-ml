@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**6** solved · 6 problems · 0 labs · 0 math
+**8** solved · 8 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,10 +12,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Calculate Covariance Matrix](https://www.deep-ml.com/problems/10) | easy | 2026-04-30 | [solution](problems/0010-calculate-covariance-matrix) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-04-22 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-03-30 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-03-31 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-03-31 | [solution](problems/0002-transpose-of-a-matrix) |
+| [Implement Masked Self-Attention](https://www.deep-ml.com/problems/107) | medium | 2026-04-30 | [solution](problems/0107-implement-masked-self-attention) |
 | [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2026-04-23 | [solution](problems/0053-implement-self-attention-mechanism) |
 | [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-04-24 | [solution](problems/0094-implement-multi-head-attention) |
 
