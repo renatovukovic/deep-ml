@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**10** solved · 10 problems · 0 labs · 0 math
+**11** solved · 11 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -21,6 +21,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Layer Normalization for Sequence Data](https://www.deep-ml.com/problems/109) | medium | 2026-05-01 | [solution](problems/0109-implement-layer-normalization-for-sequence-data) |
 | [Implement Masked Self-Attention](https://www.deep-ml.com/problems/107) | medium | 2026-04-30 | [solution](problems/0107-implement-masked-self-attention) |
 | [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2026-04-23 | [solution](problems/0053-implement-self-attention-mechanism) |
+| [Flash Attention v1 - Forward Pass](https://www.deep-ml.com/problems/208) | hard | 2026-06-11 | [solution](problems/0208-flash-attention-v1-forward-pass) |
 | [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-04-24 | [solution](problems/0094-implement-multi-head-attention) |
 
 ---
