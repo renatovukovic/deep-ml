@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**14** solved · 14 problems · 0 labs · 0 math
+**16** solved · 16 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -14,6 +14,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Calculate Covariance Matrix](https://www.deep-ml.com/problems/10) | easy | 2026-04-30 | [solution](problems/0010-calculate-covariance-matrix) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-04-22 | [solution](problems/0004-calculate-mean-by-row-or-column) |
+| [Compute TPR and FPR from Classifications](https://www.deep-ml.com/problems/1217) | easy | 2026-07-28 | [solution](problems/1217-compute-tpr-and-fpr-from-classifications) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-07-24 | [solution](problems/0015-linear-regression-using-gradient-descent) |
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-03-30 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-03-31 | [solution](problems/0001-matrix-vector-dot-product) |
@@ -24,6 +25,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Layer Normalization for Sequence Data](https://www.deep-ml.com/problems/109) | medium | 2026-05-01 | [solution](problems/0109-implement-layer-normalization-for-sequence-data) |
 | [Implement Masked Self-Attention](https://www.deep-ml.com/problems/107) | medium | 2026-04-30 | [solution](problems/0107-implement-masked-self-attention) |
 | [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2026-04-23 | [solution](problems/0053-implement-self-attention-mechanism) |
+| [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-07-28 | [solution](problems/0017-k-means-clustering) |
 | [Flash Attention v1 - Forward Pass](https://www.deep-ml.com/problems/208) | hard | 2026-06-11 | [solution](problems/0208-flash-attention-v1-forward-pass) |
 | [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-04-24 | [solution](problems/0094-implement-multi-head-attention) |
 
