@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T10:20:00.865Z",
+  "generated_at": "2026-11-13T10:20:02.758Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -286,6 +286,32 @@
       "last_pushed_at": "2026-08-15T15:00:49.360Z",
       "language": "python",
       "lines": 19
+    },
+    "problem:69": {
+      "kind": "problem",
+      "id": "69",
+      "title": "Calculate R-squared for Regression Analysis",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/69",
+      "path": "problems/0069-calculate-r-squared-for-regression-analysis",
+      "first_solved_at": "2026-08-17T14:55:28.100Z",
+      "last_pushed_at": "2026-08-17T14:55:28.100Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:64": {
+      "kind": "problem",
+      "id": "64",
+      "title": "Implement Gini Impurity Calculation for a Set of Classes",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/64",
+      "path": "problems/0064-implement-gini-impurity-calculation-for-a-set-of-classes",
+      "first_solved_at": "2026-08-17T15:13:29.889Z",
+      "last_pushed_at": "2026-08-17T15:13:29.889Z",
+      "language": "python",
+      "lines": 26
     }
   }
 }
