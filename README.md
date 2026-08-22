@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**27** solved · 27 problems · 0 labs · 0 math
+**28** solved · 28 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -28,6 +28,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2026-07-30 | [solution](problems/0024-single-neuron) |
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-07-27 | [solution](problems/0023-softmax-activation-function-implementation) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-03-31 | [solution](problems/0002-transpose-of-a-matrix) |
+| [Adam Optimizer](https://www.deep-ml.com/problems/87) | medium | 2026-08-22 | [solution](problems/0087-adam-optimizer) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-07-24 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2026-05-27 | [solution](problems/0049-implement-adam-optimization-algorithm) |
 | [Implement Layer Normalization for Sequence Data](https://www.deep-ml.com/problems/109) | medium | 2026-05-01 | [solution](problems/0109-implement-layer-normalization-for-sequence-data) |
