@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T10:20:18.992Z",
+  "generated_at": "2026-11-13T10:20:21.042Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -429,6 +429,32 @@
       "last_pushed_at": "2026-08-29T09:32:12.870Z",
       "language": "python",
       "lines": 18
+    },
+    "problem:91": {
+      "kind": "problem",
+      "id": "91",
+      "title": "Calculate F1 Score from Predicted and True Labels",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/91",
+      "path": "problems/0091-calculate-f1-score-from-predicted-and-true-labels",
+      "first_solved_at": "2026-08-30T19:34:05.462Z",
+      "last_pushed_at": "2026-08-30T19:34:05.462Z",
+      "language": "python",
+      "lines": 27
+    },
+    "problem:102": {
+      "kind": "problem",
+      "id": "102",
+      "title": "Implement the Swish Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/102",
+      "path": "problems/0102-implement-the-swish-activation-function",
+      "first_solved_at": "2026-08-30T19:36:21.614Z",
+      "last_pushed_at": "2026-08-30T19:36:21.614Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }
