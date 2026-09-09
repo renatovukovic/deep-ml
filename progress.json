@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T10:21:35.340Z",
+  "generated_at": "2026-11-13T10:21:37.612Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -520,6 +520,19 @@
       "last_pushed_at": "2026-09-07T14:43:45.013Z",
       "language": "python",
       "lines": 13
+    },
+    "problem:132": {
+      "kind": "problem",
+      "id": "132",
+      "title": "Simulate Markov Chain Transitions",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/132",
+      "path": "problems/0132-simulate-markov-chain-transitions",
+      "first_solved_at": "2026-09-09T10:02:12.740Z",
+      "last_pushed_at": "2026-09-09T10:02:12.740Z",
+      "language": "python",
+      "lines": 12
     }
   }
 }
