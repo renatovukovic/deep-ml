@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T10:21:39.693Z",
+  "generated_at": "2026-11-13T10:21:41.425Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -546,6 +546,19 @@
       "last_pushed_at": "2026-09-10T09:48:18.151Z",
       "language": "python",
       "lines": 20
+    },
+    "problem:133": {
+      "kind": "problem",
+      "id": "133",
+      "title": "Implement Q-Learning Algorithm for MDPs",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/133",
+      "path": "problems/0133-implement-q-learning-algorithm-for-mdps",
+      "first_solved_at": "2026-09-11T10:54:54.114Z",
+      "last_pushed_at": "2026-09-11T10:54:54.114Z",
+      "language": "python",
+      "lines": 54
     }
   }
 }
