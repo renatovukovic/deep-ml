@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**53** solved · 53 problems · 0 labs · 0 math
+**54** solved · 54 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -47,6 +47,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate KL Divergence Between Two Multivariate Gaussian Distributions](https://www.deep-ml.com/problems/136) | medium | 2026-09-24 | [solution](problems/0136-calculate-kl-divergence-between-two-multivariate-gaussian-distributions) |
 | [Calculate Performance Metrics for a Classification Model](https://www.deep-ml.com/problems/77) | medium | 2026-08-27 | [solution](problems/0077-calculate-performance-metrics-for-a-classification-model) |
 | [Dropout Layer](https://www.deep-ml.com/problems/151) | medium | 2026-09-23 | [solution](problems/0151-dropout-layer) |
+| [Epsilon-Greedy Action Selection for n-Armed Bandit](https://www.deep-ml.com/problems/158) | medium | 2026-10-01 | [solution](problems/0158-epsilon-greedy-action-selection-for-n-armed-bandit) |
 | [Find the Best Gini-Based Split for a Binary Decision Tree](https://www.deep-ml.com/problems/138) | medium | 2026-09-15 | [solution](problems/0138-find-the-best-gini-based-split-for-a-binary-decision-tree) |
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2026-05-27 | [solution](problems/0049-implement-adam-optimization-algorithm) |
 | [Implement Batch Normalization for BCHW Input](https://www.deep-ml.com/problems/115) | medium | 2026-09-03 | [solution](problems/0115-implement-batch-normalization-for-bchw-input) |
