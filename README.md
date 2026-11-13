@@ -1,6 +1,6 @@
 # Deep-ML
 
-My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
+My machine learning practice from [Deep-ML](https://www.deep-ml.com).
 
 **64** solved · 64 problems · 0 labs · 0 math
 
